@@ -60,10 +60,11 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 
 
 ## MLFlow Interface for Tracking Experiments
-![Tracking Experiments](img/tracking_experiments.PNG)
+![WhatsApp Image 2024-04-18 at 22 19 12_0c05608d](https://github.com/RoddaAvinash/Using-MLflow-for-Experiment-Tracking-and-Model-Management/assets/155214451/68612fb6-dd7c-4e97-901c-78c5344e9b2c)
 
 ***
 
 ## MLFlow Interface for Model Management
-![Model Management](img/model_management.PNG)
+![WhatsApp Image 2024-04-18 at 22 07 21_31aa2763](https://github.com/RoddaAvinash/Using-MLflow-for-Experiment-Tracking-and-Model-Management/assets/155214451/6f386b3c-1a12-4220-96a8-5c9fb176aa73)
+
 
