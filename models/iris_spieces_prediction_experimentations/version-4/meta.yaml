@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713456229227
+current_stage: None
+description: ''
+last_updated_timestamp: 1713456229227
+name: iris_spieces_prediction_experimentations
+run_id: 6a78de2f68af4a8daaa55063754cd21d
+run_link: ''
+source: file:///G:/Innomatics%20Internship/Task%20-%20%20Experiment%20Tracking%20and%20Model%20Management/mlruns/338614161403077691/6a78de2f68af4a8daaa55063754cd21d/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///G:/Innomatics%20Internship/Task%20-%20%20Experiment%20Tracking%20and%20Model%20Management/mlruns/338614161403077691/6a78de2f68af4a8daaa55063754cd21d/artifacts/best_estimator
+user_id: null
+version: 4
